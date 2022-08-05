@@ -1,8 +1,8 @@
-# 2021 工科海洋系 物件導向程式語言OOP
+# 2021 ESOE Object Oriented Programming Language(OOP)
 ## HighSpeedRail （期末指定題）
 
 
-## 課程介紹
+## Course
 
 1.物件導向基礎, abstraction, encapsulation, inheritance <br>
 2.Java程式語言介紹<br>
